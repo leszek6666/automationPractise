@@ -1,0 +1,11 @@
+{
+  "email": "admin@admin.com",
+  "password": "admin123",
+  "correctLoginMessage": ", you have successfully logged in!",
+  "badLoginMessage": "Bad credentials! Please try again! Make sure that you've registered.",
+  "actions": {
+    "doubleClickMessage": "Congrats, you double clicked!",
+    "end": "THE END",
+    "hoverText": "I am shown when someone hovers over the text above."
+  }
+}
